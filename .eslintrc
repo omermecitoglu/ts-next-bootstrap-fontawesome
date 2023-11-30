@@ -47,6 +47,7 @@
     "@typescript-eslint/ban-ts-ignore": "off",
     "@typescript-eslint/consistent-type-imports": "error",
     "@typescript-eslint/no-unnecessary-condition": "error",
+    "@typescript-eslint/prefer-nullish-coalescing": "error",
     "@typescript-eslint/member-delimiter-style": ["error", {
       "multiline": {
         "delimiter": "comma",
