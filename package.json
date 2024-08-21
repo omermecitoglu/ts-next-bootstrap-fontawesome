@@ -26,7 +26,7 @@
   "devDependencies": {
     "@next/eslint-plugin-next": "^14.2.5",
     "@omer-x/eslint-config": "^1.0.7",
-    "@types/node": "22.0.0",
+    "@types/node": "22.4.2",
     "@types/react": "18.3.3",
     "eslint": "^8.57.0",
     "sass": "^1.77.8",
