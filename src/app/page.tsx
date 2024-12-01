@@ -4,7 +4,7 @@ import React from "react";
 
 const Page = () => (
   <h1>
-    Hello World
+    {`${"Hello World"}`}
     {" "}
     <FontAwesomeIcon icon={faHandPeace} />
   </h1>

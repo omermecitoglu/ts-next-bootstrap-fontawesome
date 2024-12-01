@@ -25,10 +25,10 @@
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^15.0.3",
-    "@omer-x/eslint-config": "^1.0.7",
+    "@omer-x/eslint-config": "^2.0.3",
     "@types/node": "22.9.1",
     "@types/react": "18.3.12",
-    "eslint": "^8.57.1",
+    "eslint": "^9.16.0",
     "sass": "^1.81.0",
     "ts-unused-exports": "^10.1.0",
     "typescript": "5.6.3"
