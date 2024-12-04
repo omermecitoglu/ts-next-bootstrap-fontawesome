@@ -29,7 +29,7 @@
     "@types/node": "22.10.1",
     "@types/react": "18.3.12",
     "eslint": "^9.16.0",
-    "sass": "^1.81.0",
+    "sass": "^1.82.0",
     "ts-unused-exports": "^11.0.1",
     "typescript": "5.7.2"
   }
