@@ -18,18 +18,18 @@
     "@fortawesome/free-solid-svg-icons": "^6.7.1",
     "@fortawesome/react-fontawesome": "^0.2.2",
     "bootstrap": "^5.3.3",
-    "next": "^15.0.3",
-    "react": "^18.3.1",
+    "next": "^15.0.4",
+    "react": "^19.0.0",
     "react-bootstrap": "^2.10.6",
-    "react-dom": "^18.3.1"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@next/eslint-plugin-next": "^15.0.3",
-    "@omer-x/eslint-config": "^2.0.3",
+    "@next/eslint-plugin-next": "^15.0.4",
+    "@omer-x/eslint-config": "^2.1.2",
     "@types/node": "22.10.1",
-    "@types/react": "18.3.12",
+    "@types/react": "19.0.0",
     "eslint": "^9.16.0",
-    "sass": "^1.81.0",
+    "sass": "^1.82.0",
     "ts-unused-exports": "^11.0.1",
     "typescript": "5.7.2"
   }
