@@ -27,7 +27,7 @@
     "@next/eslint-plugin-next": "^15.0.4",
     "@omer-x/eslint-config": "^2.1.2",
     "@types/node": "22.10.1",
-    "@types/react": "19.0.0",
+    "@types/react": "19.0.1",
     "eslint": "^9.16.0",
     "sass": "^1.82.0",
     "ts-unused-exports": "^11.0.1",
