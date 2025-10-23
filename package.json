@@ -31,7 +31,7 @@
     "eslint": "^9.38.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
     "eslint-plugin-react": "^7.37.5",
-    "sass": "~1.91.0",
+    "sass": "~1.93.2",
     "ts-unused-exports": "^11.0.1",
     "typescript": "5.9.3"
   }
