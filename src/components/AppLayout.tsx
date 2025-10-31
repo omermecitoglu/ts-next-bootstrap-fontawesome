@@ -13,7 +13,7 @@ const AppLayout = ({
   children,
 }: AppLayoutProps) => {
   return (
-    <div>{children}</div>
+    <div className="p-3">{children}</div>
   );
 };
 

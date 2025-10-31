@@ -1,13 +1,11 @@
-import { faHandPeace } from "@fortawesome/free-solid-svg-icons/faHandPeace";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
+import RichTextEditor from "~/components/RichTextEditor";
 
 const Page = () => (
-  <h1>
-    {`${"Hello World"}`}
-    {" "}
-    <FontAwesomeIcon icon={faHandPeace} />
-  </h1>
+  <>
+    <h1>Tiptap Editor</h1>
+    <RichTextEditor name="demo" />
+  </>
 );
 
 export default Page;
